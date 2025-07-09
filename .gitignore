@@ -1,4 +1,4 @@
-# === DEPENDÊNCIAS E COMPILAÇÕES ===
+﻿# === DEPENDÃŠNCIAS E COMPILAÃ‡Ã•ES ===
 node_modules/
 package-lock.json
 pnpm-lock.yaml
@@ -7,7 +7,7 @@ dist/
 build/
 .cache/
 
-# === CONFIGURAÇÕES E LOGS ===
+# === CONFIGURAÃ‡Ã•ES E LOGS ===
 .vscode/
 .idea/
 *.log
@@ -16,7 +16,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# === VARIÁVEIS DE AMBIENTE E SENSÍVEIS ===
+# === VARIÃVEIS DE AMBIENTE E SENSÃVEIS ===
 .env
 .env.*
 *.key
@@ -26,7 +26,7 @@ yarn-error.log*
 *.p12
 *.sqlite
 *.db
-*.json  # Se contiver senhas ou configs de terceiros
+*.json
 
 # === ARQUIVOS DE SISTEMA ===
 .DS_Store
