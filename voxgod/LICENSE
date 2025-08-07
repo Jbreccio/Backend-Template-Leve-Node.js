@@ -1,0 +1,7 @@
+This project is closed-source and not open-source.  
+All code is property of the author 👨‍💻
+
+Founded by José Roberto Breccio.
+
+NO part of this project may be used, cloned, copied, or redistributed without express permission.
+Unauthorized use or distribution may result in legal consequences.
